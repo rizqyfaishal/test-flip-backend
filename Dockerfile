@@ -4,6 +4,7 @@ MAINTAINER Rizqy Faishal "rizqyfaishal27@gmail.com"
 ADD . /var/www/flip
 WORKDIR /var/www/flip
 
+RUN touch db.sqlite
 RUN php migration.php
 
 EXPOSE 3000
