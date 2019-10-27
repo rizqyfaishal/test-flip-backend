@@ -17,6 +17,7 @@ Open browser to http://localhost:8000/disbursements
 
 
 ```sh
+$ touch db.sqlite
 $ composer dumpautoload
 $ php migration.php
 $ php -S 0.0.0.0:8000 -t .
