@@ -4,7 +4,7 @@ Requirements
 - SQLITE
 - composer
 
-## Or
+## How to run program
 
 
 ```sh
