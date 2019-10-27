@@ -1,0 +1,17 @@
+{
+    "name": "root/test_flip_backend",
+    "description": "Tugas recruitment flip",
+    "authors": [
+        {
+            "name": "Rizqy Faishal",
+            "email": "rizqyfaishal27@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
