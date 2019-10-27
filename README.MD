@@ -4,15 +4,6 @@ Requirements
 - SQLITE
 - composer
 
-How to run program
-
-```sh
-$ docker-compose build
-$ docker-compose up
-```
-
-Open browser to http://localhost:8000/disbursements
-
 ## Or
 
 
